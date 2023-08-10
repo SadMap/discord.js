@@ -50,12 +50,12 @@
   },
   "homepage": "https://discord.js.org",
   "dependencies": {
-    "@discordjs/builders": "workspace:^",
-    "@discordjs/collection": "workspace:^",
-    "@discordjs/formatters": "workspace:^",
-    "@discordjs/rest": "workspace:^",
-    "@discordjs/util": "workspace:^",
-    "@discordjs/ws": "workspace:^",
+    "@discordjs/builders": "^1.6.4",
+    "@discordjs/collection": "^1.5.2",
+    "@discordjs/formatters": "^0.3.1",
+    "@discordjs/rest": "^2.0.0",
+    "@discordjs/util": "^1.0.0",
+    "@discordjs/ws": "^1.0.0",
     "@sapphire/snowflake": "^3.5.1",
     "@types/ws": "^8.5.5",
     "discord-api-types": "^0.37.50",
@@ -66,7 +66,6 @@
     "ws": "^8.13.0"
   },
   "devDependencies": {
-    "@discordjs/docgen": "workspace:^",
     "@favware/cliff-jumper": "^2.1.1",
     "@types/node": "16.18.39",
     "dtslint": "^4.2.1",
