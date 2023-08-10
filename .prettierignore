@@ -1,1 +1,3 @@
-CODEOWNERS
+.turbo
+docs/docs.json
+CHANGELOG.md

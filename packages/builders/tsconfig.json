@@ -1,8 +1,0 @@
-{
-	"extends": "../../tsconfig.json",
-	"compilerOptions": {
-		"emitDecoratorMetadata": true,
-		"exactOptionalPropertyTypes": false
-	},
-	"include": ["src/**/*.ts"]
-}

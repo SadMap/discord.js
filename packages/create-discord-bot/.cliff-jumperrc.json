@@ -1,5 +1,0 @@
-{
-	"name": "create-discord-bot",
-	"packagePath": "packages/create-discord-bot",
-	"tagTemplate": "{{name}}/{{new-version}}"
-}
